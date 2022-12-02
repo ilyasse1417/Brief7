@@ -225,3 +225,11 @@ label{
 #closeButton:hover{
     color: #001F3F; 
 }
+.delete:hover{
+    color: rgb(233, 49, 49);
+    background-color: whitesmoke;
+}
+.cancel:hover{
+    color: #eca0a4;
+    background-color: whitesmoke;
+}
